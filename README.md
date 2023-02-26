@@ -1,5 +1,5 @@
 # ContinualReID
-Implementation of our [Knowledge-Preserving continual person re-identification using Graph Attention Network](https://www.sciencedirect.com/science/article/pii/S089360802300045X) in Neural Networks(2023) by Zhaoshuo Liu, Chaolu Feng, Shuaizheng Chen, Jun Hu.
+Implementation of our [Knowledge-Preserving continual person re-identification using Graph Attention Network](https://www.sciencedirect.com/science/article/pii/S089360802300045X) in Neural Networks(2023) by Zhaoshuo Liu, Chaolu Feng, Shuaizheng Chen and Jun Hu.
 # Acknowledgement
 Our work is based on the code of Nan Pu et al. ([LifeLongReID](https://github.com/TPCD/LifelongReID)). Many thanks to Nan Pu et al. for building the foundations for continual person re-identification.
 # Citation
